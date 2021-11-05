@@ -1,0 +1,19 @@
+{
+  "name": "gaspode",
+  "version": "1.0.0",
+  "description": "a toy spotify cli client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cassm/gaspode.git"
+  },
+  "author": "cassm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cassm/gaspode/issues"
+  },
+  "homepage": "https://github.com/cassm/gaspode#readme"
+}
